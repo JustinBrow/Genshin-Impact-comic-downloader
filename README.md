@@ -6,7 +6,7 @@ I wrote this as a challenge to myself, however, upon completion of this most unh
 ## How to use  
 I'm setting the minimum version of PowerShell to 5.1 as I have not tested against any other versions.  
 
-Can be ran in one of two ways:  
+Most common ways to run the tool:  
  - Right click on the script file > Run with PowerShell.  
  - From a PowerShell window. Do note that by default PowerShell is set to not allow the running of scripts which will need to be temporarily disabled.  
 ```
