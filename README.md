@@ -2,7 +2,6 @@
 Gehshin Impact comic downloader is a tool to well... download the official Genshin Impact comic.  
 The tool creates a hidden Internet Explorer browser window \*shudder\* and manipulates the browser programatically to grab the URLs for the pages of the comic.  
 I wrote this as a challenge to myself, however, upon completion of this most unholy of tools I experienced a sudden wave of regret and felt it would be better to send it back into the dark. Alas, I did not and so here it is to darken your day.  
-Definitely an example of whether or not you could rather than whether or not you should.
 
 ## How to use  
 I'm setting the minimum version of PowerShell to 5.1 as I have not tested against any other versions.  
@@ -22,6 +21,8 @@ By default the script will download the comic to the location the script was ran
 ---
 ### Notes  
 Was originally supposed to use Invoke-WebRequest primarily, but I have not yet figured out how to parse the HTML.
+
+A prime example of whether or not you could rather than whether or not you should.
 
 Was not tested against the non-English langauge versions of the comic. Simply changinging the URL to the desired languange version in the script *may* do the trick, but I make no promises. Additionally, I don't take any steps to verify that the file/folder names are acceptible to Windows which could cause issues with non-English versions.  
 
