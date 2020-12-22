@@ -18,6 +18,7 @@ By default the script will download the comic to the location the script was ran
 ```
 {drive}:\{path}\{to}\{script}\Get-GenshinComic.ps1 -outputFolder 'S:\Private Stash'
 ```
+---
 ### Notes  
 Was not tested against the non-English langauge versions of the comic. Simply changinging the URL to the desired languange version in the script *may* do the trick, but I make no promises. Additionally, I don't take any steps to verify that the file/folder names are acceptible to Windows.  
 
