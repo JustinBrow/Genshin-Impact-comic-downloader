@@ -27,4 +27,4 @@ Tool downloads images one by one rather than asynchronously as I didn't take the
 Tool does not currently have the ability specific chapters.  
 
 ### Seal of approval  
-![seal of approval](https://i.imgur.com/SkCMOti.png)
+<a href='https://blog.codinghorror.com/the-works-on-my-machine-certification-program/'>![seal of approval](https://i.imgur.com/SkCMOti.png)</a>
