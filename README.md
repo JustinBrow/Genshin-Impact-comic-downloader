@@ -20,7 +20,7 @@ By default the script will download the comic to the location the script was ran
 ```
 ---
 ### Notes  
-Was not tested against the non-English langauge versions of the comic. Simply changinging the URL to the desired languange version in the script *may* do the trick, but I make no promises. Additionally, I don't take any steps to verify that the file/folder names are acceptible to Windows.  
+Was not tested against the non-English langauge versions of the comic. Simply changinging the URL to the desired languange version in the script *may* do the trick, but I make no promises. Additionally, I don't take any steps to verify that the file/folder names are acceptible to Windows which could cause issues with non-English versions.  
 
 Tool downloads images one by one rather than asynchronously as I didn't take the time to develop teh cability to do so. Also, I thought the progress bar was pretty, but mostly the former.  
 
