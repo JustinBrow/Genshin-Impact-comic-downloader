@@ -1,6 +1,6 @@
 # Forgive me father for I have sinned  
 Gehshin Impact comic downloader is a tool to well... download the official Genshin Impact comic.  
-The tool creates a hidden Internet Explorer \*shudder\* window and manipulates the browser programatically to grab the URLs for the pages of the comic.  
+The tool creates a hidden Internet Explorer window \*shudder\* and manipulates the browser programatically to grab the URLs for the pages of the comic.  
 I wrote this as a challenge to myself, however, upon completion of this most unholy of tools I experienced a sudden wave of regret and felt it would be better to send it back into the dark.  
 
 ## How to use  
